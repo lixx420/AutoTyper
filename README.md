@@ -9,7 +9,7 @@ This bot makes your account type forever in a certain channel.
 
 ## Installation
 ```sh
-  pip install -r requirements.txt && python main.py
+  python -m pip install -r requirements.txt
 ```
 
 ## Usage
